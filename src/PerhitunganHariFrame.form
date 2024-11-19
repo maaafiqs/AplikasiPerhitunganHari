@@ -106,8 +106,8 @@
                   <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
                   <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="hasilLabel" min="-2" pref="58" max="-2" attributes="0"/>
-                  <EmptySpace min="-2" pref="155" max="-2" attributes="0"/>
+                  <Component id="hasilLabel" min="-2" pref="167" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
                   <Component id="labelSelisih" pref="123" max="32767" attributes="0"/>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
