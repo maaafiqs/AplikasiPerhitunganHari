@@ -226,6 +226,7 @@ public class PerhitunganHariFrame extends javax.swing.JFrame {
     private javax.swing.JButton ulangButton;
     // End of variables declaration//GEN-END:variables
 
+    //method untuk menghitung jumlah hari
     private void hitungJumlahHari() {
         // Mendapatkan bulan dan tahun dari input pengguna
         int bulan = comboBulan.getSelectedIndex() + 1;
