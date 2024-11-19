@@ -93,6 +93,11 @@ public class PerhitunganHariFrame extends javax.swing.JFrame {
         });
 
         ulangButton.setText("Ulang");
+        ulangButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ulangButtonActionPerformed(evt);
+            }
+        });
 
         jLabel4.setText("HASIL");
 
@@ -174,6 +179,10 @@ public class PerhitunganHariFrame extends javax.swing.JFrame {
     private void hitungButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hitungButtonActionPerformed
         hitungJumlahHari();        // Button untuk menghitung hari
     }//GEN-LAST:event_hitungButtonActionPerformed
+
+    private void ulangButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ulangButtonActionPerformed
+        // Mengulang inputan
+    }//GEN-LAST:event_ulangButtonActionPerformed
 
     /**
      * @param args the command line arguments
