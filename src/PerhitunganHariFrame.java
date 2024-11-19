@@ -172,7 +172,7 @@ public class PerhitunganHariFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void hitungButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hitungButtonActionPerformed
-        hitungJumlahHari();        // TODO add your handling code here:
+        hitungJumlahHari();        // Button untuk menghitung hari
     }//GEN-LAST:event_hitungButtonActionPerformed
 
     /**
